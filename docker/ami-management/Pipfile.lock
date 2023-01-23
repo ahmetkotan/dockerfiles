@@ -26,19 +26,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:31c0adf71e4bd19a5428580bb229d7ea3b5795eecaa0847a85385df00c026116",
-                "sha256:4f493a2aed71cee93e626de4f67ce58dd82c0473480a0fc45b131715cd8f4f30"
+                "sha256:4e876ba5d64928cde0c416dd844f04f22d6b73d14002bbc3ca55591f80f49927",
+                "sha256:c729bb0af76e85a2776b6bd3da8d9fa0f4b91b425eab51612aa53956f644ee23"
             ],
             "index": "pypi",
-            "version": "==1.26.16"
+            "version": "==1.26.54"
         },
         "botocore": {
             "hashes": [
-                "sha256:271b599e6cfe214405ed50d41cd967add1d5d469383dd81ff583bc818b47f59b",
-                "sha256:8cfcc10f2f1751608c3cec694f2d6b5e16ebcd50d0a104f9914d5616227c62e9"
+                "sha256:ca3ef7588daa664fe196d3234718db5f6b5dab961507500b4bb921e31133eea1",
+                "sha256:f2fe17ed6b8e163769a715f81cb6ce3d4628d172918de535256bdf34d29b704f"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.29.16"
+            "version": "==1.29.54"
         },
         "coloredlogs": {
             "hashes": [
@@ -90,11 +90,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:47cc05d99aaa09c9e72ed5809b60e7ba354e64b59c9c173ac3018642d8bb41fc",
-                "sha256:c083dd0dce68dbfbe1129d5271cb90f9447dea7d52097c6e0126120c521ddea8"
+                "sha256:076907bf8fd355cde77728471316625a4d2f7e713c125f51953bb5b3eecf4f72",
+                "sha256:75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==1.26.13"
+            "version": "==1.26.14"
         }
     },
     "develop": {}
